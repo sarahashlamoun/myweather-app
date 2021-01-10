@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  }
+  
+  h1 {
+    color: #7734eb;
+  }
+  
+  h5 {
+    color: #7734eb;
+  }
+  
+  p {
+    color: #7734eb;
+    font-size: 17px;
+    font-family: "Dancing Script", cursive;
+    font-family: "Nerko One", cursive;
+  }
+  
